@@ -1,7 +1,12 @@
 """
 Hello!
 
-I debugged and tested this program numerous times, but due to the command-line nature of the code, I found it difficult to show you the instances of me debugging and testing. Regardless, I encourage you to play around with the program and try out different csv files and command line arguments. I had a lot of fun coding this out, and I hope to hear back soon!
+I debugged and tested this program numerous times,
+but due to the command-line nature of the code, I found it
+difficult to show you the instances of me debugging and testing.
+Regardless, I encourage you to play around with the program and
+try out different csv files and command line arguments. I had a
+lot of fun coding this out, and I hope to hear back soon!
 
 """
 
